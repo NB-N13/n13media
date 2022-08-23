@@ -5,4 +5,4 @@ $('[n13-slider-arrow]').on('click', function() {
   var ogarrowid = '[n13-og-slider-arrow='+sliderarrowid+']';
   $(wrapperattribute).find(ogarrowid).click();
 });
-//N13 MEDIA custom arrows
+//N13 MEDIA custom code
